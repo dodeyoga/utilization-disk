@@ -30,9 +30,9 @@ dan analisis risiko disk penuh (disk saturation).
 ## Documentation
 
 - [Overview & Architecture](overview.md)
-- [CTE Reference](docs/cte-reference.md)
-- [Assumptions & Design Decisions](docs/assumptions-and-design.md)
-- [Troubleshooting Guide](docs/troubleshooting.md)
+- [CTE Reference](cte-reference.md)
+- [Assumptions & Design Decisions](assumptions-and-design.md)
+- [Troubleshooting Guide](troubleshooting.md)
 
 ---
 
